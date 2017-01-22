@@ -1,6 +1,6 @@
 function setup() {
 }
 
-function drow() {
+function draw() {
   ellipse(80, 80, 50, 50)
 }
